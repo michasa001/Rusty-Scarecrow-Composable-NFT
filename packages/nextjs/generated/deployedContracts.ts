@@ -1715,7 +1715,7 @@ const contracts = {
       name: "sepolia",
       contracts: {
         Hat: {
-          address: "0x737762Bca05306dE751926A97a2daC5B1022ADd5",
+          address: "0x8fA9c1b45887772aad7E54acA008b2Eab5471746",
           abi: [
             {
               inputs: [],
@@ -2269,7 +2269,7 @@ const contracts = {
           ],
         },
         Scarecrow: {
-          address: "0x8443a5196fA4E3DAd63073A9ea606EE73181639c",
+          address: "0x30097a47A6ab06Bdb453751A7d43c3D587217FC3",
           abi: [
             {
               inputs: [
@@ -2863,7 +2863,7 @@ const contracts = {
           ],
         },
         Scarf: {
-          address: "0x02652d1e2ECA115FC986E81494c6AB928bBC234D",
+          address: "0xEAa823E3070c8ebde78e2A69E76c471c6Fc68E09",
           abi: [
             {
               inputs: [],

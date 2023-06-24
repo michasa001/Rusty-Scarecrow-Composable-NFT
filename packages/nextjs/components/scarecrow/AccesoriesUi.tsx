@@ -97,7 +97,7 @@ export const AccessoryUi = ({
                 <p className="text-center text-lg">
 
                 </p>
-                <button className="px-8 py-2 bg-base-300 rounded-full hover:bg-gray-900 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-105" onClick={name === "Hat" ? mintHatNft : mintScarfNft}>Mint </button>
+                <button className="px-8 py-2 bg-base-300 rounded-full hover:bg-gray-400 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-105" onClick={name === "Hat" ? mintHatNft : mintScarfNft}>Mint </button>
             </div>
 
 
