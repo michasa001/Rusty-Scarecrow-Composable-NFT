@@ -1,9 +1,8 @@
 # SVG Rusty Scarecrow NFts
 
-<p align="center">
+
 ![scarecrow](https://github.com/michasa001/Rusty-Scarecrow-Composable-NFT/assets/134693770/6465ae97-2262-4b78-b7bc-10101fd79a71)
 
-</p>
 
 [https://scarecrow-eta.vercel.app](https://scarecrow-eta.vercel.app) 
 
