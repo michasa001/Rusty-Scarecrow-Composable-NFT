@@ -72,7 +72,7 @@ const Home: NextPage = () => {
           </h1>
           <h1 className="text-center"> Our uninvited guests, the mischievous rodent pests are nearby!</h1>
           <h1 className="text-center text-lg">
-            Mint yourself a unique Scarecrow, add some accesories and protect your farm yard
+            Mint yourself a unique Scarecrow at .005 ETH, add some accesories and protect your farm yard
           </h1>
 
           <button className="px-8 py-2 bg-base-300 rounded-full hover:bg-gray-500 transition ease-in-out delay-150 hover:-translate-y-0.5 hover:scale-105" onClick={mintNft}>Mint </button>

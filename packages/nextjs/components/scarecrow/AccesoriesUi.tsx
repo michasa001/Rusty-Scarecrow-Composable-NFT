@@ -91,7 +91,7 @@ export const AccessoryUi = ({
                     <span className="block text-3xl font-bold">Mint an Accessory</span>
                 </h1>
                 <p className="text-center text-lg flex flex-col">
-                    <span>Mint a {name === "Hat" ? "Hat" : "Scarf"} for your scarecrow</span>
+                    <span>Mint a {name === "Hat" ? "Hat" : "Scarf"} for your scarecrow at .002 ETH</span>
                     <span>   Select a  {name === "Hat" ? "Hat" : "Scarf"} and upgrade your scarecrow </span>
                 </p>
                 <p className="text-center text-lg">
